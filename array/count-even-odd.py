@@ -26,7 +26,18 @@ for i in range(0,len(a)):
         print(a[i])
 
 #odd index element
+sum_odd = 0
 print("odd index from the array")
 for i in range(0,len(a)):
     if i%2==1:
         print(a[i])
+        sum_odd += a[i]
+print("sum odd",sum_odd)
+
+#sum of even index
+sum_even = 0
+for i in range(0,len(a)):
+    if i%2==0:
+        print(a[i])
+        sum_even += a[i]
+print("sum even",sum_even)
