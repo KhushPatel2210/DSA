@@ -17,3 +17,14 @@ for i in a :
         count_odd += 1
     
 print(count_odd)
+
+#even index element
+
+for i in range(0,len(a)):
+    if i%2==0:
+        print(a[i])
+
+#odd index element
+for i in range(0,len(a)):
+    if i%2==1:
+        print(a[i])
