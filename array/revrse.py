@@ -12,3 +12,8 @@ for i in range(len(a),0,-1):
     reverse.append(a[i-1])
 
 print(reverse)
+
+
+# slicing method 
+b=a[::-1]
+print(b)
