@@ -9,5 +9,12 @@ for i in range(len(a)-1,1,-1):
     if a[i-1] == a[i]:
         a.pop(i)
 print(a)
+
+b=[]
+
+for i in a :
+    if i not in b :
+        b.append(i)
+print(b)
         
         
