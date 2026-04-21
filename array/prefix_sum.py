@@ -23,3 +23,5 @@ for i in range(len(arr)):
 print(max_sum)
   
 #Kadane’s Algorithm (Maximum Subarray Sum)
+
+## pending
