@@ -1,0 +1,37 @@
+[
+    {
+        "name": "maan",
+        "id": 1,
+        "city": "canada"
+    },
+    {
+        "name": "khush",
+        "id": 2,
+        "city": "ahd"
+    },
+    {
+        "name": "krish",
+        "id": 3,
+        "city": "gnr"
+    },
+    {
+        "name": "foram",
+        "id": 4,
+        "city": "gnr"
+    },
+    {
+        "name": "meet",
+        "id": 5,
+        "city": "ldrp"
+    },
+    {
+        "name": "kirti",
+        "id": 6,
+        "city": "surendranagr"
+    },
+    {
+        "name": "milly",
+        "id": 7,
+        "city": "nikol"
+    }
+]
